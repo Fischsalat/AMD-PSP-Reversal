@@ -1,6 +1,6 @@
 # Resources
 ## Content
-**maybe_bootloader.bin:** psp-bootloader extraced from below bios image with [PSPTool](https://github.com/PSPReverse/PSPTool)
+**maybe_bootloader.bin:** psp-bootloader extraced from below bios image with [PSPTool](https://github.com/PSPReverse/PSPTool) \
 **maybe_bootloader.bin.i64:** IDA database with a large amount of functions/variables labled
 ## BIOS Image
 BIOS F66g for the Gigabyte B450 Aorus Pro board: [B450AORUSPRO.F66g](https://www.gigabyte.com/uk/Motherboard/B450-AORUS-PRO-rev-10/support#support-dl)
