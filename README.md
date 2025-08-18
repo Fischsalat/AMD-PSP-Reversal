@@ -12,7 +12,7 @@ BIOS F66g for the Gigabyte B450 Aorus Pro board: [B450AORUSPRO.F66g](https://www
 
 **CoreBoot:**
  - At the [official git repo](https://review.coreboot.org/coreboot.git) or [mirror on GitHub](https://github.com/coreboot/coreboot).
- - PSP-related code can be found in [bl_syscall_public.h](https://github.com/coreboot/coreboot/blob/main/src/vendorcode/amd/psp_verstage/picasso/include/bl_uapp/bl_syscall_public.h) and other files in the parent directory/directories
+ - PSP-related code can be found in [bl_syscall_public.h](https://github.com/coreboot/coreboot/blob/main/src/vendorcode/amd/psp_verstage/picasso/include/bl_uapp/bl_syscall_public.h) and other files in the parent directories
 
  **AMD repositories:**
  - [firmware_binaries](https://github.com/amd/firmware_binaries): Firmware binaries and error definitions
